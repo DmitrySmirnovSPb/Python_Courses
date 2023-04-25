@@ -94,5 +94,5 @@ class ix35(Auto):
 
 
 Auto().moving(120,85)
-main = ix35(number='о828тв198', color='Серебристый')
+main = ix35(number='м476ес77', color='Серебристый')
 main.moving(15,85)
